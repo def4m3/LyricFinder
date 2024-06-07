@@ -1,13 +1,18 @@
 # LyricFinder
-Это приложение на WPF которое я разработал для личного использования
+LyricFinder - это приложение для рабочего стола WPF, разработанное для личного использования. Оно позволяет пользователям находить тексты песен на Genius и отображать их. Приложение может получать информацию о песне из проигрывателя Windows или принимать ввод вручную. Кроме того, оно предоставляет возможность перевода текстов песен на русский язык.
 
-LyricFinder находит текст песни на Genius и отображает его. Информацию о песне находит в Windows проигрывателе, так же есть ручной ввод
+## Особенности
+- **Поиск текста песни**: Находите тексты песен на Genius и отображайте их.
+- **Автоматическое обнаружение песен**: Получение информации о песне из проигрывателя Windows для легкого поиска текстов песен.
+- **Ручной ввод**: Возможность вручную вводить информацию о песне для поиска текстов песен.
 
-Так же приложение может переводить текст на русский язык
 
 ----------------------------------------------------------
+LyricFinder is a WPF desktop application developed for personal use. It allows users to find song lyrics on Genius and display them. The application can retrieve song information from the Windows player or accept manual input. Additionally, it provides the functionality to translate the lyrics into Russian.
 
-Its an desktop app that i developed for personal using.
+## Features
 
-LyricFinder can find lyrics of songs on Genius and display them. An app can find lyrics automatically by Windows player, or by manual input
-Also it can translate founded lyrics on russian language
+- **Lyric Search**: Find lyrics of songs on Genius and display them.
+- **Automatic Song Detection**: Retrieve song information from the Windows player for easy lyric search.
+- **Manual Input**: Ability to manually input song information for lyric search.
+- **Translation**: Translate the lyrics into Russian.
